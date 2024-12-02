@@ -28,69 +28,73 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 8. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">,  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
+9. **High skip networks: A higher order generalization of skip connections**. Mustafa Hajij, Karthikeyan Natesan Ramamurthy, Aldo Guzmán-Sáenz, Ghada Zamzami. ICLR GTRL Workshop 2022. [Paper](https://par.nsf.gov/servlets/purl/10477139)
+
+10. **Simplicial complex representation learning**. Mustafa Hajij, Ghada Zamzmi, Theodore Papamarkou, Vasileios Maroulas and Xuanting Cai. MLoG Workshop at WSDM 2022. [Paper](https://arxiv.org/pdf/2103.04046)
+ 
+11. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">,  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
-10. **Simplicial Convolutional Neural Networks**. Maosheng Yang, Elvin Isufi, Geert Leus. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746017&casa_token=Qg3EgJQy7dkAAAAA:zir5JmgmjZBArJNQuatXU1z4L-z5FqruCyONv7aUuNXPxokdayx6d3C9Nj06ng5CXTl3mgc), [Code](https://github.com/cookbook-ms/simplicial_convolutional_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+12. **Simplicial Convolutional Neural Networks**. Maosheng Yang, Elvin Isufi, Geert Leus. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746017&casa_token=Qg3EgJQy7dkAAAAA:zir5JmgmjZBArJNQuatXU1z4L-z5FqruCyONv7aUuNXPxokdayx6d3C9Nj06ng5CXTl3mgc), [Code](https://github.com/cookbook-ms/simplicial_convolutional_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-11. **Sheaf Neural Networks with Connection Laplacians**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Michael Bronstein, Petar Veličković, Pietro Liò. *ICML 2022 Workshop on Topology, Algebra, and Geometry in Machine Learning*. [Paper](https://arxiv.org/abs/2206.08702)
+13. **Sheaf Neural Networks with Connection Laplacians**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Michael Bronstein, Petar Veličković, Pietro Liò. *ICML 2022 Workshop on Topology, Algebra, and Geometry in Machine Learning*. [Paper](https://arxiv.org/abs/2206.08702)
 
-12. **Sheaf Attention Networks**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Pietro Liò. *NeurIPS 2022 NeurReps Workshop*. [Paper](https://openreview.net/pdf?id=LIDvgVjpkZr)
+14. **Sheaf Attention Networks**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Pietro Liò. *NeurIPS 2022 NeurReps Workshop*. [Paper](https://openreview.net/pdf?id=LIDvgVjpkZr)
 
-13. **Cell Attention Networks**. Lorenzo Giusti, Claudio Battiloro, Lucia Testa, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *IEEE IJCNN 2023*. [Paper](https://arxiv.org/abs/2209.08179), [Code](https://github.com/lrnzgiusti/can) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+15. **Cell Attention Networks**. Lorenzo Giusti, Claudio Battiloro, Lucia Testa, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *IEEE IJCNN 2023*. [Paper](https://arxiv.org/abs/2209.08179), [Code](https://github.com/lrnzgiusti/can) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-14. **Surfing on the Neural Sheaf**. Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Konstantinos Barmpas, Cristian Bodnar. *NeurIPS 2022 NeurReps Workshop*. [Paper](https://openreview.net/pdf?id=xOXFkyRzTlu)
+16. **Surfing on the Neural Sheaf**. Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Konstantinos Barmpas, Cristian Bodnar. *NeurIPS 2022 NeurReps Workshop*. [Paper](https://openreview.net/pdf?id=xOXFkyRzTlu)
 
-15. **Architectures of Topological Deep Learning: A Survey on Topological Neural Networks**. Mathilde Papillon, Sophia Sanborn, Mustafa Hajij, Nina Miolane. [Paper](https://arxiv.org/abs/2304.10031)
+17. **Architectures of Topological Deep Learning: A Survey on Topological Neural Networks**. Mathilde Papillon, Sophia Sanborn, Mustafa Hajij, Nina Miolane. [Paper](https://arxiv.org/abs/2304.10031)
 
-16. **Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back**. Claudio Battiloro, Zhiyang Wang, Hans Riess, Paolo Di Lorenzo, Alejandro Ribeiro. [Paper](https://arxiv.org/abs/2303.11323), [Code](https://github.com/clabat9/Tangent-Bundle-Neural-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+18. **Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back**. Claudio Battiloro, Zhiyang Wang, Hans Riess, Paolo Di Lorenzo, Alejandro Ribeiro. [Paper](https://arxiv.org/abs/2303.11323), [Code](https://github.com/clabat9/Tangent-Bundle-Neural-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-17. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=CznfqG9Aigo">
+19. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=CznfqG9Aigo">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
-18. **Topological Autoencoders**. Michael Moor, Max Horn, Bastian Rieck, and Karsten Borgwardt. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/moor20a.html), [Code](https://github.com/BorgwardtLab/topological-autoencoders) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+20. **Topological Autoencoders**. Michael Moor, Max Horn, Bastian Rieck, and Karsten Borgwardt. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/moor20a.html), [Code](https://github.com/BorgwardtLab/topological-autoencoders) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-19. **E(n) Equivariant Message Passing Simplicial Networks**. Floor Eijkelboom, Rob Hesselink, Erik Bekkers. *ICML 2023*. [Paper](https://arxiv.org/abs/2305.07100)
+21. **E(n) Equivariant Message Passing Simplicial Networks**. Floor Eijkelboom, Rob Hesselink, Erik Bekkers. *ICML 2023*. [Paper](https://arxiv.org/abs/2305.07100)
 
-20. **CIN++: Enhancing Topological Message Passing**. Lorenzo Giusti, Teodora Reu, Francesco Ceccarelli, Cristian Bodnar, Pietro Liò. [Paper](https://arxiv.org/abs/2306.03561), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+22. **CIN++: Enhancing Topological Message Passing**. Lorenzo Giusti, Teodora Reu, Francesco Ceccarelli, Cristian Bodnar, Pietro Liò. [Paper](https://arxiv.org/abs/2306.03561), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
     
-21. **Simplicial Hopfield networks**. Thomas F Burns, Tomoki Fukai. *ICLR 2023*. [Paper](https://arxiv.org/abs/2305.05179), [Code](https://github.com/tfburns/simplicial-hopfield-networks), <a href="https://www.youtube.com/watch?v=dlg2L4yXWak">
+23. **Simplicial Hopfield networks**. Thomas F Burns, Tomoki Fukai. *ICLR 2023*. [Paper](https://arxiv.org/abs/2305.05179), [Code](https://github.com/tfburns/simplicial-hopfield-networks), <a href="https://www.youtube.com/watch?v=dlg2L4yXWak">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
-22. **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
+24. **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
     
-23. **Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**. Quang Truong and Peter Chin. *AAAI 2024*. [Paper](https://arxiv.org/abs/2308.06838), [Code](https://github.com/quang-truong/Path-Complex-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+25. **Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**. Quang Truong and Peter Chin. *AAAI 2024*. [Paper](https://arxiv.org/abs/2308.06838), [Code](https://github.com/quang-truong/Path-Complex-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-24. **Generalized simplicial attention neural networks**. Claudio Battiloro, Lucia Testa, Lorenzo Giusti, Stefania Sardellitti, Paolo Di Lorenzo, Sergio Barbarossa. [Paper](https://arxiv.org/abs/2309.02138)
+26. **Generalized simplicial attention neural networks**. Claudio Battiloro, Lucia Testa, Lorenzo Giusti, Stefania Sardellitti, Paolo Di Lorenzo, Sergio Barbarossa. [Paper](https://arxiv.org/abs/2309.02138)
 
-25. **TopoX: A Suite of Python Packages for Machine Learning on Topological Domains**. Mustafa Hajij, Mathilde Papillon, Florian Frantzen et al. [Paper](https://arxiv.org/abs/2402.02441), [Code](https://github.com/pyt-team/TopoNetX)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+27. **TopoX: A Suite of Python Packages for Machine Learning on Topological Domains**. Mustafa Hajij, Mathilde Papillon, Florian Frantzen et al. [Paper](https://arxiv.org/abs/2402.02441), [Code](https://github.com/pyt-team/TopoNetX)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-26. **Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural Networks via Higher-Order Interactions**. Lorenzo Giusti. [Thesis](https://arxiv.org/abs/2402.06908)
+28. **Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural Networks via Higher-Order Interactions**. Lorenzo Giusti. [Thesis](https://arxiv.org/abs/2402.06908)
 
-27.  **From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**. Claudio Battiloro, Indro Spinelli et al. [Paper](https://openreview.net/forum?id=0JsRZEGZ7L), [Code](https://github.com/spindro/differentiable_cell-complex_module), [Blogpost](https://clabat9.medium.com/latent-topology-inference-0a3c04bf0fa5)
+29.  **From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**. Claudio Battiloro, Indro Spinelli et al. [Paper](https://openreview.net/forum?id=0JsRZEGZ7L), [Code](https://github.com/spindro/differentiable_cell-complex_module), [Blogpost](https://clabat9.medium.com/latent-topology-inference-0a3c04bf0fa5)
 
-27.  **E(n) Equivariant Topological Neral Networks**. Claudio Battiloro, Ege Karaismailoğlu, Mauricio Tec, George Dasoulas et al. [Paper](https://arxiv.org/abs/2405.15429), [Code](https://github.com/NSAPH-Projects/topological-equivariant-networks), [Blogpost](https://clabat9.medium.com/e-n-equivariant-topological-neural-networks-3117f582d6bf)
+30.  **E(n) Equivariant Topological Neral Networks**. Claudio Battiloro, Ege Karaismailoğlu, Mauricio Tec, George Dasoulas et al. [Paper](https://arxiv.org/abs/2405.15429), [Code](https://github.com/NSAPH-Projects/topological-equivariant-networks), [Blogpost](https://clabat9.medium.com/e-n-equivariant-topological-neural-networks-3117f582d6bf)
 
-28. **Signal Processing and Learning over Topological Spaces**. Claudio Battiloro. [Thesis](https://theses.eurasip.org/theses/974/signal-processing-and-learning-over-topological/)
+31. **Signal Processing and Learning over Topological Spaces**. Claudio Battiloro. [Thesis](https://theses.eurasip.org/theses/974/signal-processing-and-learning-over-topological/)
 
-29. **Gaussian Processes on Cellular Complexes**. Mathieu Alain, So Takao, Brooks Paige, Marc Peter Deisenroth. *ICML 2024*. [Paper](https://proceedings.mlr.press/v235/alain24a.html)
+32. **Gaussian Processes on Cellular Complexes**. Mathieu Alain, So Takao, Brooks Paige, Marc Peter Deisenroth. *ICML 2024*. [Paper](https://proceedings.mlr.press/v235/alain24a.html)
 
-30. **TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks**. Mathilde Papillon, Guillermo Bernárdez, Claudio Battiloro, and Nina Miolane. [Paper](https://arxiv.org/abs/2410.06530), [Code](https://github.com/geometric-intelligence/TopoBenchmark?tab=readme-ov-file#bulb-topotune)
+33. **TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks**. Mathilde Papillon, Guillermo Bernárdez, Claudio Battiloro, and Nina Miolane. [Paper](https://arxiv.org/abs/2410.06530), [Code](https://github.com/geometric-intelligence/TopoBenchmark?tab=readme-ov-file#bulb-topotune)
 
-31. **Molecular topological deep learning for polymer property prediction**. Cong Shen, Yipeng Zhang, Fei Han, Kelin Xia. [Paper](https://arxiv.org/abs/2410.04765)
+34. **Molecular topological deep learning for polymer property prediction**. Cong Shen, Yipeng Zhang, Fei Han, Kelin Xia. [Paper](https://arxiv.org/abs/2410.04765)
 
-32.  **Bayesian Sheaf Neural Networks**. Patrick Gillespie, Vasileios Maroulas, Ioannis Schizas. [Paper](https://arxiv.org/abs/2410.09590)
+35.  **Bayesian Sheaf Neural Networks**. Patrick Gillespie, Vasileios Maroulas, Ioannis Schizas. [Paper](https://arxiv.org/abs/2410.09590)
 
-33.  **Higher-Order Topological Directionality and Directed Simplicial Neural Networks**. Manuel Lecha, Andrea Cavallo, Francesca Dominici, Elvin Isufi, Claudio Battiloro. [Paper](https://arxiv.org/abs/2409.08389), [Code](https://github.com/andrea-cavallo-98/DirSNN)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+36.  **Higher-Order Topological Directionality and Directed Simplicial Neural Networks**. Manuel Lecha, Andrea Cavallo, Francesca Dominici, Elvin Isufi, Claudio Battiloro. [Paper](https://arxiv.org/abs/2409.08389), [Code](https://github.com/andrea-cavallo-98/DirSNN)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-34. **TopoBenchmarkX: A Framework for Benchmarking Topological Deep Learning**. Lev Telyatnikov, Guillermo Bernardez, Marco Montagna, Pavlo Vasylenko, Ghada Zamzmi, Mustafa Hajij, Michael T Schaub, Nina Miolane, Simone Scardapane, Theodore Papamarkou. [Paper](https://arxiv.org/abs/2406.06642), [Code](https://github.com/geometric-intelligence/TopoBenchmark)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+37. **TopoBenchmarkX: A Framework for Benchmarking Topological Deep Learning**. Lev Telyatnikov, Guillermo Bernardez, Marco Montagna, Pavlo Vasylenko, Ghada Zamzmi, Mustafa Hajij, Michael T Schaub, Nina Miolane, Simone Scardapane, Theodore Papamarkou. [Paper](https://arxiv.org/abs/2406.06642), [Code](https://github.com/geometric-intelligence/TopoBenchmark)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-35. **Topological Network Traffic Compression**. Guillermo Bernárdez, Lev Telyatnikov, Eduard Alarcón, Albert Cabellos-Aparicio, Pere Barlet-Ros, Pietro Liò. *Proceedings of the 2nd on Graph Neural Networking Workshop 2023.* [Paper](https://dl.acm.org/doi/abs/10.1145/3630049.3630172)
+38. **Topological Network Traffic Compression**. Guillermo Bernárdez, Lev Telyatnikov, Eduard Alarcón, Albert Cabellos-Aparicio, Pere Barlet-Ros, Pietro Liò. *Proceedings of the 2nd on Graph Neural Networking Workshop 2023.* [Paper](https://dl.acm.org/doi/abs/10.1145/3630049.3630172)
 
-36. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
+39. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
 
 
 ---
@@ -103,9 +107,10 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 5. **What are higher-order networks?** Christian Bick, Elizabeth Gross, Heather A. Harrington, Michael T. Schaub. *arXiv 2021*. [Paper](https://arxiv.org/abs/2104.11329)
 6. **Topological Signal Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa, Lucia Testa. *arXiv 2021*. [Paper](https://arxiv.org/abs/2112.06709)
 7. **Topological Signal Representation and Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2201.08993)
-8. **Robust Signal Processing Over Simplicial Complexes**. Stefania Sardellitti, Sergio Barbarossa. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9746761/)
-9. **The physics of higher-order interactions in complex systems**. Battiston, Federico, Enrico Amico, Alain Barrat, Ginestra Bianconi, Guilherme Ferraz de Arruda, Benedetta Franceschiello, Iacopo Iacopini et al. *Nature Physics* [Paper](https://www.nature.com/articles/s41567-021-01371-4)
-10. **Recovery of Signals on a Simplicial Complex from Subsampled Neighbourhood Aggregation**. Siddartha Reddy; Sundeep Prabhakar Chepuri. *IEEE Signal Processing Letters* [Paper](https://ieeexplore.ieee.org/abstract/document/10706807)
+8. **Signal processing on cell complexes**. Mitchell Roddenberry, Michael Schaub, Mustafa Hajij. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9747233)
+9. **Robust Signal Processing Over Simplicial Complexes**. Stefania Sardellitti, Sergio Barbarossa. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9746761/)
+10. **The physics of higher-order interactions in complex systems**. Battiston, Federico, Enrico Amico, Alain Barrat, Ginestra Bianconi, Guilherme Ferraz de Arruda, Benedetta Franceschiello, Iacopo Iacopini et al. *Nature Physics* [Paper](https://www.nature.com/articles/s41567-021-01371-4)
+11. **Recovery of Signals on a Simplicial Complex from Subsampled Neighbourhood Aggregation**. Siddartha Reddy; Sundeep Prabhakar Chepuri. *IEEE Signal Processing Letters* [Paper](https://ieeexplore.ieee.org/abstract/document/10706807)
 ---
 
 ### Algebraic Topology
