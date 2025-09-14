@@ -96,6 +96,9 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 39. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
 
+37. **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**. Huang, Yiming, and Tolga Birdal. arXiv preprint arXiv:2502.04308 (2025). [Paper](https://arxiv.org/pdf/2502.04308), [Code](https://github.com/Yiminghh/HOG-Diff)
+
+38. **Higher-Order Molecular Learning: The Cellular Transformer**. Melih Barsbey, Rubén Ballester, Andac Demir, Carles Casacuberta, Pablo Hernández-García, David Pujol-Perich, Sarper Yurtseven, Sergio Escalera, Claudio Battiloro, Mustafa Hajij, Tolga Birdal (2025). [Paper](https://openreview.net/pdf?id=GW3h79mxrF)
 
 ---
 
@@ -117,7 +120,9 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 1. **Computational and applied topology, tutorial**. Paweł Dłotko. *2018*. [Paper](https://arxiv.org/abs/1807.08607)
 2. **Algebraic topology**. Allen Hatcher.  *Cambridge Univ. Press. 2000*. [Book](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
-3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
+3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry. 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
+4. **Computational Topology for Data Analysis**. Tamal Krishna Dey. *Cambridge University Press 2022*. [Book](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf)
+5. **Topological Methods in Machine Learning: A Tutorial for Practitioners**. Baris Coskunuzer, Cüneyt Gürcan Akçora. *2024*. [Paper](https://arxiv.org/abs/2409.02901)
 ---
 
 ### Differential Geometry
@@ -125,6 +130,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 1. **Introduction to Differential Geometry**. Joel W. Robbin, Dietmar A. Salamon. [Book](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
 2. **Differential Geometry and Stochastic Dynamics with Deep Learning Numerics** Line Kühnel, Alexis Arnaudon, and Stefan Sommer. *arXiv 2017*. [Paper](https://arxiv.org/pdf/1712.08364.pdf)
 3. **Differential Geometry meets Deep Learning (DiffGeo4DL)** Joey Bose · Emile Mathieu · Charline Le Lan · Ines Chami · Frederic Sala · Christopher De Sa · Maximilian Nickel · Christopher Ré · Will Hamilton. *NeurIPS 2020 Workshop*. [Link](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16116)
+4. **Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges**. Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. *2021*. [Book](https://arxiv.org/abs/2104.13478)
+5. **Mathematical Foundations of Geometric Deep Learning**. Haitz Sáez de Ocáriz Borde, Michael Bronstein. *2025*. [Paper](https://arxiv.org/abs/2508.02723)
 ---
 
 ### Discrete Calculus
@@ -132,6 +139,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 2. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. *Springer 2010* . [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
 3. **Discrete Differential Forms for Computational Modeling**. Mathieu Desbrun, Eva Kanso & Yiying Tong. *SIGGRAPH 2006*. [Paper](https://dl.acm.org/doi/pdf/10.1145/1185657.1185665?casa_token=K71FDD1wHvAAAAAA:BtLvvN-ChokfibpRnGZAOSNvBW4Qy0ZkiasCFoL3PovzI4TKqBAZz8W8aGb9wgSb1WG8gQmyvsIH)
+4. **Exterior Calculus in Graphics**. Stephanie Wang, Mohammad Sina Nabizadeh, and Albert Chern. *Course notes for a SIGGRAPH 2023 course* [Notes](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
 ---
 
 ### Courses
